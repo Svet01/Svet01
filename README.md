@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hola, Bienvenido! 👋</h1>
+Soy Sebastian Vilte y mi soy Desarrollador BackEnd! 
+<div align="center">
+  ![Debbie Balboa](https://user-images.githubusercontent.com/96359353/198494292-bdc31aeb-f1dd-4b41-b8d3-c918bfc143a9.gif)
+</div>
 
-<!--
-**Svet01/Svet01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desde pequeño me gustaba navegar por internet y jugar a los videjuegos. Siempre me preguntaba que
+era lo que sucedia dentro de un juego y una pagian web... ¡Ahora en la actualidad despues de un duro
+trabajo de estudio esa pregunta de aquel niño fue respondida! 
 
-Here are some ideas to get you started:
+### Mis Habilidades
+  <p align="center">
+    <img src="https://img.icons8.com/dusk/64/000000/python.png"/>
+    <img src="https://img.icons8.com/color/48/000000/django.png"/>
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![A man who lived in dreams](https://user-images.githubusercontent.com/96359353/198494296-6052d2f9-9252-4577-a209-359855571e1a.gif)
