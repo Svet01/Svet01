@@ -1,18 +1,19 @@
-<h1 align="center">Hola, Bienvenido! 👋</h1>
-Soy Sebastian Vilte y mi soy Desarrollador BackEnd! 
+<h1 align="center">Hello, Welcome! 👋</h1>
 <div align="center">
-  ![Debbie Balboa](https://user-images.githubusercontent.com/96359353/198494292-bdc31aeb-f1dd-4b41-b8d3-c918bfc143a9.gif)
+  <img src="https://i.pinimg.com/originals/3e/fc/f1/3efcf1e9a5f2c3354714699b321221b4.gif" width="600px"/>
 </div>
+<h3 align="center" >I'm Svet and I'm a BackEnd Developer!</h3>
+<p align="center">Since I was little I liked to surf the internet and play video games. I always wondered what
+was what happened inside a game and a web page... Now today after a hard
+study work that child's question was answered!</p>
 
-Desde pequeño me gustaba navegar por internet y jugar a los videjuegos. Siempre me preguntaba que
-era lo que sucedia dentro de un juego y una pagian web... ¡Ahora en la actualidad despues de un duro
-trabajo de estudio esa pregunta de aquel niño fue respondida! 
-
-### Mis Habilidades
+<h2 align="center">My Skills</h2>
   <p align="center">
     <img src="https://img.icons8.com/dusk/64/000000/python.png"/>
     <img src="https://img.icons8.com/color/48/000000/django.png"/>
   </p>
 
 
-![A man who lived in dreams](https://user-images.githubusercontent.com/96359353/198494296-6052d2f9-9252-4577-a209-359855571e1a.gif)
+<div align="center">
+  <img src="https://i.pinimg.com/originals/81/4a/1b/814a1b0cba8d889d2a587854a909fc2f.gif" width="600px"/>
+</div> 
