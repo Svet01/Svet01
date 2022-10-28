@@ -23,6 +23,8 @@ study work that child's question was answered!</p>
    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="80px" height="80px" title="Figma"/>
    <img src="https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/1.20.1/1666166824541/Microsoft.VisualStudio.Services.Icons.Default" width="80px" height="80px" title="Thunder Client"/>
   </p>
+  <br>
+  <p align="center">Thank you for reading. I hope you like my projects</p>
 <div align="center">
   <img src="https://i.pinimg.com/originals/81/4a/1b/814a1b0cba8d889d2a587854a909fc2f.gif" width="600px"/>
 </div> 
