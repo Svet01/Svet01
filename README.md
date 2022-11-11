@@ -14,7 +14,6 @@ study work that child's question was answered!</p>
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_logo_icon_146389.png" width="80px" height="80px" title="PostgreSQL"/>
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="80px" height="80px" title="HTML5"/>
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="80px" height="80px" title="CSS3"/>
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="80px" height="80px" title="Javascript"/>
   </p>
 <h2 align="center">Tools</h2>
   <p align="center">
