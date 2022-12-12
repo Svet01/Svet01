@@ -18,7 +18,7 @@ study work that child's question was answered!</p>
 <h2 align="center">Tools</h2>
   <p align="center">
    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="80px" height="80px" title="Visual Studio Code"/>
-   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" width="80px" height="80px" title="Canva"/>
+   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" width="80px" height="80px" title="Git"/>
    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="80px" height="80px" title="Figma"/>
    <img src="https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/1.20.1/1666166824541/Microsoft.VisualStudio.Services.Icons.Default" width="80px" height="80px" title="Thunder Client"/>
   </p>
